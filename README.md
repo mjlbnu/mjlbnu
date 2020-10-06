@@ -7,9 +7,10 @@ I'm Marcio, a Systems Analyst from Brazil 💚, **40 years old** 👶🏻 and **
 
 ### 📫 Where to find me
 
-- [LinkedIn](https://linkedin.com/in/mjlbnu) 👨💼
-- [Website](https://www.programadorbr.com.br/) 😏🔗
+- <a href="https://www.linkedin.com/in/mjlbnu/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/> 👨💼
+- [My Website](https://www.programadorbr.com.br/) 😏🔗
 
 #### <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="80"> View my stats on Github 
    
 ![Marcio GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjlbnu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlbnu&layout=compact)
