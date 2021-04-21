@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcio, a Systems Analyst from Brazil 💚, **40 years old** 👶🏻 and **10 years of coding** 🧐. 
+I'm Marcio from Brazil 💚. 
 
 - 🔭 I’m currently working at Philips 💜
 - 🌱 I’m currently learning Full Stack Web Development
